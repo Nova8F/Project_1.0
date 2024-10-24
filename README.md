@@ -39,31 +39,32 @@ When considering the chemicals reported in this data, it is also important to no
 
 3. Which product categories and subcategories contain the most reports of potentially hazardous chemicals?
 Analysis of the data showed there are 13 primary Categories and over 100 subcategories and 123 different hazardous chemicals. The Top 10 of each was looked at closely comparing both categories to the number of Hazardous chemicals. Out of the 13 primary Categories and subcategories the top ten containing the highest number of different hazardous chemicals are
+
 Primary Category (1 being the highest)
-1.	Skin care Products (20.4%)
-2.	Hair Care Products (Non-coloring), (16.3%)
-3.	Makeup products (non-permanent) (12.7%)
-4.	Bath products (10.1%)
-5.	Sun-Related Products (9.6%)
-6.	Nail products (7.7%)
-7.	Personal Care Products (7.7%)
-8.	Fragrances (5.5%)
-9.	Hair Coloring Products (5.5%)
-10.	Shaving Products (4.3%)
+  1.	Skin care Products (20.4%)
+  2.	Hair Care Products (Non-coloring), (16.3%)
+  3.	Makeup products (non-permanent) (12.7%)
+  4.	Bath products (10.1%)
+  5.	Sun-Related Products (9.6%)
+  6.	Nail products (7.7%)
+  7.	Personal Care Products (7.7%)
+  8.	Fragrances (5.5%)
+  9.	Hair Coloring Products (5.5%)
+  10.	Shaving Products (4.3%)
+
 The Top Ten subcategories are (1 being the highest)
-1.	Skin Moisturizers (14.2%)
-2.	Hair shampoos (11.7%)
-3.	Facial cream (10.4%)
-4.	Skin Cleaners (10.4%)
-5.	Hair Styling (10.1%)
-6.	Sunscreen (making a cosmetic claim), (9.6%)
-7.	Hair Conditioners (Rinse-Out), (8.8%)
-8.	Anti/wrinkling-Aging Products (making a cosmetic claim), (8.5%)
-9.	Other skin care Products (8.3%)
-10.	Body Washed (8.0%)
+  1.	Skin Moisturizers (14.2%)
+  2.	Hair shampoos (11.7%)
+  3.	Facial cream (10.4%)
+  4.	Skin Cleaners (10.4%)
+  5.	Hair Styling (10.1%)
+  6.	Sunscreen (making a cosmetic claim), (9.6%)
+  7.	Hair Conditioners (Rinse-Out), (8.8%)
+  8.	Anti/wrinkling-Aging Products (making a cosmetic claim), (8.5%)
+  9.	Other skin care Products (8.3%)
+  10.	Body Washed (8.0%)
 
 From the results of the Primary Category and The Subcategory Skincare products contain the highest number of different hazardous chemicals, where’s Shaving products has the least, but only compared to the top ten highest categories. If possible, in the future it would be better to compare data from other states. This would overcome a limited data set.
-
 
 4. What kind of changes were there in the reporting of potentially hazardous chemicals from year to year?
 
