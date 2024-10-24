@@ -61,6 +61,7 @@ The Top Ten subcategories are (1 being the highest)
 8.	Anti/wrinkling-Aging Products (making a cosmetic claim), (8.5%)
 9.	Other skin care Products (8.3%)
 10.	Body Washed (8.0%)
+
 From the results of the Primary Category and The Subcategory Skincare products contain the highest number of different hazardous chemicals, where’s Shaving products has the least, but only compared to the top ten highest categories. If possible, in the future it would be better to compare data from other states. This would overcome a limited data set.
 
 
