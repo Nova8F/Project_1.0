@@ -51,3 +51,16 @@ Reports of product discontinuations by year and by chemical type were also analy
 The most discontinued chemical, by percentage of discontinued reports out of initial reports, was mineral oils, checking in at a 31% rate of discontinuation. Mineral oils came in at tenth in the rankings of most reported chemicals. Meanwhile, titanium dioxide was by far the most reported chemical, yet its discontinuation rate ranked tenth, checking in at an 11% rate of discontinuation.
 
 ## Conclusion
+
+Overall, the state of California made a large effort to begin tracking potentially hazardous chemical composition in the late 2000's, and our goal was to determine any noteable patterns and trends in what was being reported between 2009-2020. Here are the general findings from our analysis:
+- L'Oreal was the most prominent reporter of potentially hazardous chemicals, due largely to their frequent usage of titanium dioxide in their products.
+- Titanium dioxide reports began to increase again with each year in the late 2010's, but the increase was not due to L'Oreal usage of this chemical.
+- Skin care products had the most reports of using potentially hazardous chemicals, with skin moisturizers standing out as the subcategory of products reporting the most chemicals.
+- Procter and Gamble has reported the most discontinuations, while L'Oreal falls outside the top 10 companies discontinuing products.
+- Mineral oils were the most discontinued chemical by percentage, while titanium dioxide ranked 10th in discontinuation rate.
+
+In further analysis, it would be interested to explore:
+- Any data reported on potentially hazardous chemicals in others states
+- Any scientific findings about certain chemicals that might be influencing the inclusion of chemicals in cosmetic products
+- The effect that this data reporting would have on consumers making decisions about certain products or companies
+- Any continuation of these cosmetics trends into the early 2020's
