@@ -1,9 +1,4 @@
-# Project_1.0
-
-## Possible Project Titles: 
-
-1. An analysis of chemicals in cosmetics in the state of california
-2. ToxTrace Analytics
+# Chemicals in Cosmetics
 
 ## Team Members:
 
@@ -12,33 +7,14 @@ Ling Bramlett
 Domenic Misiti
 Marah Alsharaiha
 
-## Project Description:
-In this project the data collected from cosmetic companies in California will be analyzed to draw conclusions about the frequency of hazerdous ingredients and their products 
+## Project Summary:
+In this project, the data collected from cosmetic companies in California was analyzed to draw conclusions about the frequency of hazardous ingredients and their products. Questions explored included:
+- Which companies and brands have the most reports of potentially hazardous chemicals?
+- Which potentially hazardous chemicals have been reported the most?
+- Which product categories and subcategories contain the most reports of potentially hazardous chemicals?
+- What kind of changes were there in the reporting of potentially hazardous chemicals from year to year?
 
-# Research questions to answers
-- Which companies have the highest frequency of hazardous chemicals?
-- Which brands have the highest frequency of hazardous chemicals?
-- Which categories of cosmetics have the highest frequency of hazardous chemicals?
-- Which subcategories have the highest frequency of hazardous chemicals?
-- Which hazardous chemicals appear most frequently in the data?
-
-# Datasets to be used 
-[text](cscpopendata.csv)
-
-
-# Rough breakdown of tasks
-
-- Data Cleaning and Preparation
-- Exploratory Data Analysis
-- Statistical Analysis
-- Data Visualization
-- Interpretation of Data
-
-
-
-
-
-## Q&A
+## Methods and Analysis (using Python in Jupyter Notebook)
 - Which companies have the highest frequency of hazardous chemicals?
 
 Our analysis reveals that every company reported at least one chemical in their products, 
@@ -64,4 +40,4 @@ Furthermore, our focused analysis on companies producing baby products indicated
 
 Titanium dioxide was by far the most reported chemical which is very concerning as it is considered a carcinogen when in powdered form. It doesn’t mean all the products that have been reported are in powdered form but it is concerning to have any carcinogen product to put on your skin. The other chemicals have been found to have caused cancer from the graph and at the minimum is skin irritations. We, the consumers should be aware of what we put on our bodies as they affect us for the rest of our lives. The graph informs about chemicals that were allowed in past products for current consumers to throw away. 
 
-- 
+## Conclusion
