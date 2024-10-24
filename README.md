@@ -38,6 +38,7 @@ Titanium dioxide was by far the most reported chemical, coming in at over 85% of
 When considering the chemicals reported in this data, it is also important to note that only companies that have generated sales of $1,000,000 or more were required to report. Additionally, companies must report regardless of the concentration level of that chemical in their product, so the data here does not indicate how much of a given chemical would be present in the product. Nonetheless, all the chemicals in this data set of been particularly signified as potentially hazardous chemicals. 
 
 3. Which product categories and subcategories contain the most reports of potentially hazardous chemicals?
+
 Analysis of the data showed there are 13 primary Categories and over 100 subcategories and 123 different hazardous chemicals. The Top 10 of each was looked at closely comparing both categories to the number of Hazardous chemicals. Out of the 13 primary Categories and subcategories the top ten containing the highest number of different hazardous chemicals are
 
 Primary Category (1 being the highest)
